@@ -1,1 +1,3 @@
 # register_form
+
+It's a simple register form using html, css and Font Awesome icons...
