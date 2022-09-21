@@ -1,0 +1,33 @@
+form {
+    background-color: rgb(126, 42, 42);
+    border: 1px solid blue;
+    height: 365px;
+    width: 40%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    width: 70%;
+    padding-left: 22px;
+    margin:5px 47px;
+    margin-bottom: 1.3em;
+}
+
+i {
+    position: relative;
+    left: 72px;
+    top: 1px;
+}
+
+label {
+    margin: 13.5%;
+}
+
+button {
+    margin:auto;
+    display:block;
+  }
